@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bienvenidos a Sinecapa Blog"
 date:   2026-09-29 14:14:59 -0600
 categories: jekyll update
 ---
